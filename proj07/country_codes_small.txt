@@ -1,0 +1,98 @@
+Country_Code/Country_Name
+BGD/Bangladesh
+CAN/Canada
+DMA/Dominica
+GIB/Gibraltar
+ISR/Israel
+LTU/Lithuania
+MMR/Myanmar
+PHL/Philippines
+SLB/Solomon Islands
+TON/Tonga
+ZMB/Zambia
+BEL/Belgium
+TCD/Chad
+EGY/Egypt, Arab Rep.
+GRD/Grenada
+JPN/Japan
+MDG/Madagascar
+NPL/Nepal
+PRI/Puerto Rico
+SSD/South Sudan
+TUR/Turkey
+ALB/Albania
+BMU/Bermuda
+CHN/China
+ERI/Eritrea
+GIN/Guinea
+KEN/Kenya
+MDV/Maldives
+NZL/New Zealand
+RUS/Russian Federation
+KNA/St. Kitts and Nevis
+TUV/Tuvalu
+AND/Andorra
+BIH/Bosnia and Herzegovina
+COD/Congo, Dem. Rep.
+ETH/Ethiopia
+HTI/Haiti
+KOR/Korea, Rep.
+MHL/Marshall Islands
+NGA/Nigeria
+SMR/San Marino
+VCT/St. Vincent and the Grenadines
+ARE/United Arab Emirates
+ARG/Argentina
+VGB/British Virgin Islands
+CIV/Cote d'Ivoire
+FIN/Finland
+HUN/Hungary
+KGZ/Kyrgyz Republic
+MEX/Mexico
+NOR/Norway
+SEN/Senegal
+SWE/Sweden
+URY/Uruguay
+AUS/Australia
+BFA/Burkina Faso
+CUW/Curacao
+GAB/Gabon
+IDN/Indonesia
+LBN/Lebanon
+MCO/Monaco
+PLW/Palau
+SLE/Sierra Leone
+TJK/Tajikistan
+VEN/Venezuela, RB
+BHS/Bahamas, The
+KHM/Cambodia
+DNK/Denmark
+DEU/Germany
+IRL/Ireland
+LBY/Libya
+MAR/Morocco
+PRY/Paraguay
+SVK/Slovak Republic
+TLS/Timor-Leste
+PSE/West Bank and Gaza
+BRB/Barbados
+CYM/Cayman Islands
+DOM/Dominican Republic
+GRC/Greece
+ITA/Italy
+LUX/Luxembourg
+NAM/Namibia
+POL/Poland
+SOM/Somalia
+TTO/Trinidad and Tobago
+ZWE/Zimbabwe
+BLZ/Belize
+CHI/Channel Islands
+SLV/El Salvador
+GUM/Guam
+JOR/Jordan
+MWI/Malawi
+NLD/Netherlands
+QAT/Qatar
+ESP/Spain
+TKM/Turkmenistan
